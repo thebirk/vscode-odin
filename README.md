@@ -1,0 +1,1 @@
+Odin language syntax genereated from https://github.com/odin-lang/sublime-odin
