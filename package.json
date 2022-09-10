@@ -1,7 +1,7 @@
 {
     "name": "odin",
     "displayName": "Odin",
-    "description": "Odin syntax highlighting using the offical sublime-odin syntax.",
+    "description": "Odin syntax highlighting using the official sublime-odin syntax.",
     "version": "0.0.2",
     "publisher": "thebirk",
     "repository": {
@@ -19,7 +19,11 @@
             "id": "odin",
             "aliases": ["Odin", "odin"],
             "extensions": [".odin"],
-            "configuration": "./language-configuration.json"
+            "configuration": "./language-configuration.json",
+            "icon": {
+                "light": "./icons/odinlogo-icon-light.png",
+                "dark": "./icons/odinlogo-icon-dark.png"
+            }
         }],
         "grammars": [{
             "language": "odin",
