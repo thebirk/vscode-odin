@@ -2,7 +2,7 @@
     "name": "odin",
     "displayName": "Odin",
     "description": "Odin syntax highlighting using the official sublime-odin syntax.",
-    "version": "0.0.2",
+    "version": "0.1.0",
     "publisher": "thebirk",
     "repository": {
         "type": "git",
